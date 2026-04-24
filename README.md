@@ -16,13 +16,13 @@ The project employs YOLOv11 classification models (S and X variants) for multi-c
 
 ### YOLO11 S Model
 
-![Training Curves S](results/s_train.jpg)
-![Confusion Matrix S](results/s_confusion_matrix.jpg)
+<img src="results/s_train.jpg" width="400" alt="Training Curves S">
+<img src="results/s_confusion_matrix.jpg" width="400" alt="Confusion Matrix S">
 
 ### YOLO11 X Model
 
-![Training Curves X](results/x_train.jpg)
-![Confusion Matrix X](results/x_confusion_matrix.jpg)
+<img src="results/x_train.jpg" width="400" alt="Training Curves X">
+<img src="results/x_confusion_matrix.jpg" width="400" alt="Confusion Matrix X">
 
 ## Project Workflow
 
